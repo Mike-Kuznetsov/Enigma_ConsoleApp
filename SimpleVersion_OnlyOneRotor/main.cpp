@@ -1,5 +1,5 @@
 /*  
-    For Mautoz Tech YouTube channel
+    For Mautoz Tech YouTube channel https://www.youtube.com/c/mautoztech
     Copyright 2022 Mikhail Kuznetsov
 
 Licensed under the Apache License, Version 2.0 (the "License");
