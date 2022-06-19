@@ -1,5 +1,6 @@
 # Enigma_ConsoleApp
 Simple Enigma crypto console emulator.
+You can use built-in browser translator.
 
 <h3>1. Введение</h3>
 
